@@ -1,0 +1,44 @@
+{
+  "run_id": "20260505_133346",
+  "windows": 3953,
+  "per_xapp": {
+    "xappsdlmalicioso": {
+      "xapp_id": "xappsdlmalicioso",
+      "windows": 3953,
+      "TP": 1451,
+      "TN": 2373,
+      "FP": 100,
+      "FN": 29,
+      "accuracy": 0.9674,
+      "precision": 0.9355,
+      "recall": 0.9804,
+      "specificity": 0.9596,
+      "f1_score": 0.9574,
+      "fpr": 0.0404,
+      "fnr": 0.0196,
+      "mcc": 0.9317,
+      "auc_roc": 0.995
+    }
+  }
+  "run_id": "20260505_133346",
+  "windows": 38657,
+  "per_xapp": {
+    "xappsdlmalicioso": {
+      "xapp_id": "xappsdlmalicioso",
+      "windows": 38657,
+      "TP": 13631,
+      "TN": 23628,
+      "FP": 1045,
+      "FN": 353,
+      "accuracy": 0.9638,
+      "precision": 0.9288,
+      "recall": 0.9748,
+      "specificity": 0.9576,
+      "f1_score": 0.9512,
+      "fpr": 0.0424,
+      "fnr": 0.0252,
+      "mcc": 0.9232,
+      "auc_roc": 0.9941
+    }
+  }
+}

@@ -5,7 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Dataset Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j3les-0/xApp-Methodology/blob/main/colab/O_RAN_xapp_dataset.ipynb)
 [![Training Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j3les-0/xApp-Methodology/blob/main/colab/O_RAN_xapp_training.ipynb)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-xApp%20Testing%20Environment-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mZLco7DwN_MmVm-kf78-lYN1XyZdEsJj)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Dataset-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mZLco7DwN_MmVm-kf78-lYN1XyZdEsJj)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-xApp%20Testing%20Environment-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1y097sdQFyaK8uLLovHTtZw9GyMPCs8cA?usp=sharing)
 ---
  
 ## Overview
